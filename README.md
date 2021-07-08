@@ -10,7 +10,7 @@ I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world p
 [![Medium](https://img.shields.io/badge/-Shubham-black?style=flat&logo=Medium&logoColor=white)](https://shubham-00.medium.com/)
 
 
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
+![](https://komarev.com/ghpvc/?username=shubham007kumar&style=flat)
 
 
 ### 💼  Things that I'm currently working on: 
