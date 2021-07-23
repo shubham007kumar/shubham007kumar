@@ -22,7 +22,6 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 
 * Learn to code:3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read: Dev and UI articles daily 
-* Workout: 7 days in a row and take a day break 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">           
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
