@@ -20,7 +20,7 @@ I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world p
 ### Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage, and I’m having lots of spare time, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further. 
 
-* Learn to code:3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code: 3-4 hours a day with no distraction
 * Read: Dev and UI articles daily 
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">           
