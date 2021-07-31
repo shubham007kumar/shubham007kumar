@@ -25,7 +25,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">           
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -37,6 +37,7 @@ Since the world is in the quarantine stage, and I’m having lots of spare time,
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+
 ![Cypress](https://img.shields.io/badge/-Cypress.io-black?style=flat-square&logo=cypress)
 ![React Sprint](https://img.shields.io/badge/-React_Spring-007ACC?style=flat-square&logo=reactSpring)
 
