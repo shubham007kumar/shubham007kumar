@@ -1,5 +1,5 @@
 # Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world problems**. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**.
+I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world problems**. I'm passionate about making **Software** more accessible for the users.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
@@ -14,7 +14,7 @@ I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world p
 
 ### 💼  Things that I'm currently working on: 
 * Front-End Web:computer: Development
-* Learning Backhand by using MongoDB.
+* Backhend by using node.js.
 * Looking forward to take a ML: course in future.
 
 ### Challenges that I’m currently challenging myself:
