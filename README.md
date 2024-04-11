@@ -13,33 +13,31 @@ I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world p
 
 
 ### 💼  Things that I'm currently working on: 
-* Front-End Web:computer: Development
-* Backhend by using node.js.
-* Looking forward to take a ML: course in future.
+* FrontEnd using React
+* Backhend using java.
 
 ### Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having lots of spare time, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further. 
+I've realized the importance of staying updated in our rapidly evolving world. That's why I've dedicated this time to delve deeper into my knowledge, particularly focusing on mastering Low-Level Design (LLD) and High-Level Design (HLD)
 
-* Learn to code: 3-4 hours a day with no distraction
-* Read: Dev and UI articles daily 
+* Learn to code: 2-3 hours a day with no distraction
+* Read: UI and LLD articles daily.
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">           
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+ ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Material UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=materialui)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![NoSQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 
-![Cypress](https://img.shields.io/badge/-Cypress.io-black?style=flat-square&logo=cypress)
-![React Sprint](https://img.shields.io/badge/-React_Spring-007ACC?style=flat-square&logo=reactSpring)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham007kumar&show_icons=true)
  
