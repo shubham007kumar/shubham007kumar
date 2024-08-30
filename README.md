@@ -14,7 +14,7 @@ I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world p
 
 ### 💼  Things that I'm currently working on: 
 * FrontEnd using React
-* Backhend using java.
+* Backend using java.
 
 ### Challenges that I’m currently challenging myself:
 I've realized the importance of staying updated in our rapidly evolving world. That's why I've dedicated this time to delve deeper into my knowledge, particularly focusing on mastering Low-Level Design (LLD) and High-Level Design (HLD)
