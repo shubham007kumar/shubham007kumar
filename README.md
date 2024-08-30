@@ -22,26 +22,22 @@ I've realized the importance of staying updated in our rapidly evolving world. T
 * Learn to code: 2-3 hours a day with no distraction
 * Read: UI and LLD articles daily.
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Material UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=materialui)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham007kumar&show_icons=true)
- 
-   
- 
-
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting!</h4>
