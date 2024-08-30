@@ -1,5 +1,5 @@
 # Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I'm Shubham! I'm a **Full Stack Web Developer**, looking to solve **real-world problems**. I'm passionate about making **Software** more accessible for the users.
+I'm Shubham! I'm a **Full Stack Developer**, looking to solve **real-world problems**. I'm passionate about making **Software** more accessible for the users.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
