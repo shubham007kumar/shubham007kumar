@@ -13,14 +13,15 @@ I'm Shubham! I'm a **Full Stack Developer**, looking to solve **real-world probl
 
 
 ### 💼  Things that I'm currently working on: 
-* FrontEnd using React
-* Backend using java.
+
+* Backend using Spring Boot.
+* Frontend using React.
 
 ### Challenges that I’m currently challenging myself:
 I've realized the importance of staying updated in our rapidly evolving world. That's why I've dedicated this time to delve deeper into my knowledge, particularly focusing on mastering Low-Level Design (LLD) and High-Level Design (HLD)
 
-* Learn to code: 2-3 hours a day with no distraction
 * Read: LLD and HLD articles daily.
+* Learn to code: 2-3 hours a day with no distraction
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)
